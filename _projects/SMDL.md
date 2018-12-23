@@ -1,8 +1,8 @@
 ---
 title: "SubModular Data Loader"
 collection: projects
-permalink: /publications/SMDL/
+permalink: /projects/SMDL/
 ---  
-[[PDF]](https://lantaoyu.github.io/files/dadm-kdd.pdf)
+
 
 ## To be Updated 
