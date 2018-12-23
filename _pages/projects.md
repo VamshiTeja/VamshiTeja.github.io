@@ -4,8 +4,8 @@ permalink: /projects/
 author_profile: true
 ---
 <hr>
-<b>[SubModular Data Loader](https://VamshiTeja.github.io/projects/SMDL)
- 
+
+<b>[SubModular Data Loader](https://VamshiTeja.github.io/projects/SMDL) </br> 
 <b>[Classification and Quantification of SRF/PED from OCT Scans](https://VamshiTeja.github.io/projects/OCT)
 <br>Land Cover Segmentation from High Resolution Satellite Images
 <br>Recommendation Systems using deep learning
