@@ -1,7 +1,7 @@
 ---
 title: "SubModular Data Loader"
 collection: projects
-permalink: /projects/SMDL/
+permalink: /projects/SMDL
 ---  
 
 
