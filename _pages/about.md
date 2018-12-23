@@ -17,4 +17,4 @@ redirect_from:
 
 
 # Recent News
-* December 1, 2018. Received Job offer from [Mercari,Japan](https://mercari.com/) as a Software Engineer.
+* December 1, 2018. Going to join [Mercari, Japan](https://mercari.com/) as a Software Engineer in October 2019!.
