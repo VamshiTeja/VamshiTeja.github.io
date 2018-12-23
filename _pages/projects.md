@@ -3,9 +3,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-## 
-
-## Deep Learning
+<hr>
 
 <b>[SubModular Data Loader](https://VamshiTeja.github.io/projects/SMDL) 
 
