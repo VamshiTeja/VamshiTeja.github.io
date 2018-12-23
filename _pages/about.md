@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://VamshiTeja.github.io/files/VamshiTeja.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://VamshiTeja.github.io/Images/VamshiTeja.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am a Senior Year Undergraduate student in the [Electrical Engineering Department](https://ee.iith.ac.in/) at [Indian Institute of Technology Hyderabad](https://www.iith.ac.in/). [[Curriculum Vitae]](http://VamshiTeja.github.io/files/VamshiTeja.pdf)

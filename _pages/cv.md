@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Vamshi Teja (于澜涛)"
+title: "Vamshi Teja"
 permalink: /cv/
 author_profile: true
 redirect_from:
