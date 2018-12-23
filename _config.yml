@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lantao Yu"
+title                    : "Vamshi Teja"
 title_separator          : "-"
-name                     : &name "Lantao Yu"
-description              : &description "PhD student, Computer Science Department, Stanford University"
-url                      : https://lantaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Vamshi Teja"
+description              : &description "Undergraduate Senior Year, Electrical Engineering Department, IIT Hyderabad"
+url                      : https://VamshiTeja.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LantaoYu/lantaoyu.github.io"
+repository               : "VamshiTeja/VamshiTeja.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lantao Yu"
-  avatar           : "lantaoyu.jpg"
-  bio              : "PhD student, Computer Science Department, Stanford University"
-  location         : "Stanford, California"
+  name             : "Vamshi Teja"
+  avatar           : "VamshiTeja.jpg"
+  bio              : "Undergraduate Senior Year, Electrical Engineering Department, IIT Hyderabad"
+  location         : "Hyderabad, India"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : "lantaoyu@hotmail.com"
+  googlescholar    : 
+  email            : "ee15btech11023@iith.ac.in"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "LantaoYu"
+  github           : "VamshiTeja"
   google_plus      :
   keybase          :
   instagram        : 
