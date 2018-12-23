@@ -17,4 +17,4 @@ author_profile: true
 
 <br>Face Emotion Recognition
 
-<br>Theft Detection</br>
+<br>Theft Detection
