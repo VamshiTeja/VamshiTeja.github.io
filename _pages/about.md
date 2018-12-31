@@ -12,12 +12,12 @@ redirect_from:
   <img src="https://VamshiTeja.github.io/files/VamshiTeja.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I am a Senior Year Undergraduate student in the [Electrical Engineering Department](https://ee.iith.ac.in/) at [Indian Institute of Technology Hyderabad](https://www.iith.ac.in/). [[Curriculum Vitae]](http://VamshiTeja.github.io/files/VamshiTeja.pdf)
+* I am a Senior Year Undergraduate student in the [Electrical Engineering Department](https://ee.iith.ac.in/) at [Indian Institute of Technology Hyderabad](https://www.iith.ac.in/).
 * My research interests lie in the general area of ML/DL, particularly in representation learning and generative modelling, as well as their applications in Computer Vision, Natural Language Understanding and Healthcare.
 
 
 # News
-* December 1, 2018. Going to join [Mercari, Japan](https://mercari.com/) as a Software Engineer in October 2019!
+* December 1, 2018. Going to join [Mercari, Japan](https://mercari.com/) as a Software Engineer in October 2019.
 * July 14, 2018. Interned at [Kumiko-Tanaka Ishii Laboratory](http://www.cl.rcast.u-tokyo.ac.jp/Top.html), University of Tokyo, Japan.
 * June 24, 2018. Interned at [Philips Innovation Campus](https://www.philips.co.in/a-w/about-philips/philips-innovation-center.html), Bangalore.
 * July 31, 2017. Interned at [Mobiliya(now Quest Global)](https://www.mobiliya.com/), Bangalore. 
