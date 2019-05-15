@@ -17,8 +17,9 @@ redirect_from:
 
 
 # News
+* May 10, 2019. Our Paper titled "Submodular Batch Selection for Training Deep Neural Networks" is accepted at [IJCAI 2019](https://ijcai19.org/), Macao-China!
 * May 5, 2019. Our Team secured 6th place worldwide in IEEE VIP-CUP 2019.
-* April 10, 2019. Our Paper titled "Classification and Quantification of Retinal Cysts in OCT B-Scans: Efficacy of Machine Learning Methods" is accepted at [EMBC 2019](https://embc.embs.org/2019/), Germany!
+* April 10, 2019. Our Paper titled "Classification and Quantification of Retinal Cysts in OCT B-Scans: Efficacy of Machine Learning Methods" is accepted at [EMBC 2019](https://embc.embs.org/2019/), Berlin-Germany!
 * December 1, 2018. Received Job Offer from [Mercari, Japan](https://mercari.com/).
 * July 14, 2018. Interned at [Kumiko-Tanaka Ishii Laboratory](http://www.cl.rcast.u-tokyo.ac.jp/Top.html), The University of Tokyo, Japan.
 * June 24, 2018. Interned at [Philips Innovation Campus](https://www.philips.co.in/a-w/about-philips/philips-innovation-center.html), Bangalore.
