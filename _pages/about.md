@@ -18,7 +18,7 @@ redirect_from:
 
 # News
 * May 21, 2019. Our work on using Submodular optimization for mini-batch selection would be presented at [Negative Dependence in ML](https://negative-dependence-in-ml-workshop.lids.mit.edu/) workshop, ICML 2019, Long Beach, California, USA.
-* May 10, 2019. Our Paper titled "Submodular Batch Selection for Training Deep Neural Networks" is accepted at [IJCAI 2019](https://ijcai19.org/), Macao, China!
+* May 10, 2019. Our Paper titled ["Submodular Batch Selection for Training Deep Neural Networks"](https://arxiv.org/abs/1906.08771) is accepted at [IJCAI 2019](https://ijcai19.org/), Macao, China!
 * May 5, 2019. Our Team secured 6th place worldwide in IEEE VIP-CUP 2019.
 * April 10, 2019. Our Paper titled "Classification and Quantification of Retinal Cysts in OCT B-Scans: Efficacy of Machine Learning Methods" is accepted at [EMBC 2019](https://embc.embs.org/2019/), Berlin, Germany!
 * December 1, 2018. Received Job Offer from [Mercari, Japan](https://mercari.com/).
