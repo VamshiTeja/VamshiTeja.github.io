@@ -12,11 +12,13 @@ redirect_from:
   <img src="https://VamshiTeja.github.io/files/VamshiTeja.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I am a Senior Year Undergraduate student in the [Electrical Engineering Department](https://ee.iith.ac.in/) at [Indian Institute of Technology Hyderabad](https://www.iith.ac.in/).
+* I am currently Software Engineer at Mercari, Inc Tokyo, Japan. 
+* I completed my Undergraduate studies in the [Electrical Engineering Department](https://ee.iith.ac.in/) at [Indian Institute of Technology Hyderabad](https://www.iith.ac.in/).
 * My research interests lie in the general area of ML/DL, particularly in representation learning and generative modelling, as well as their applications in Computer Vision, Natural Language Understanding and Healthcare.
 
 
 # News
+* October 1, 2019. Started working as a Software Engineer at Mercari, Tokyo, Japan.
 * May 21, 2019. Our work on using Submodular optimization for mini-batch selection would be presented at [Negative Dependence in ML](https://negative-dependence-in-ml-workshop.lids.mit.edu/) workshop, ICML 2019, Long Beach, California, USA.
 * May 10, 2019. Our Paper titled ["Submodular Batch Selection for Training Deep Neural Networks"](https://arxiv.org/abs/1906.08771) is accepted at [IJCAI 2019](https://ijcai19.org/), Macao, China!
 * May 5, 2019. Our Team secured 6th place worldwide in IEEE VIP-CUP 2019.

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vamshi Teja"
 title_separator          : "-"
 name                     : &name "Vamshi Teja"
-description              : &description "Undergraduate Senior Year, Electrical Engineering Department, IIT Hyderabad"
+description              : &description "Software Engineer @ Mercari,Inc Tokyo"
 url                      : https://vamshiteja.in # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "VamshiTeja/VamshiTeja.github.io"
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Vamshi Teja"
   avatar           : "VamshiTeja.jpg"
-  bio              : "Undergraduate Senior Year, Electrical Engineering Department, IIT Hyderabad"
-  location         : "IIT Hyderabad, India"
+  bio              : "Software Engineer @ Mercari,Inc Tokyo"
+  location         : "Tokyo, Japan"
   employer         : 
   googlescholar    : 
-  email            : "ee15btech11023@iith.ac.in"
+  email            : "vamshitejar@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
