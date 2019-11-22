@@ -2,7 +2,7 @@
 title: "Submodular Batch Selection for Training Deep Neural Networks"
 collection: publications
 permalink: /publications/SMDL
-venue: "IJCAI 2019"
+venue: "IJCAI"
 date: 2019-8-10
 citation: 'K J, Joseph and <b>Vamshi Teja, R</b> and Krishnakant, Singh and Vineeth, N Balasubramanian. <i>Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI, Macao, China.</i>'
 ---
