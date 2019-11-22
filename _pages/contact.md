@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-F-432, IIT Hyderabad Hostel<br>
-Hyderabad, India<br>
-Email: ee15btech11023 [at] iith.ac.in
+1-31-407, Kasai Clean Town Seishin Minami Heights<br>
+1-1 Seishincho Edogawa-ku, Tokyo <br>
+Email: vamshitejar [at] gmail.com
 
