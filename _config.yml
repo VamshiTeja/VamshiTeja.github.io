@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vamshi Teja"
 title_separator          : "-"
 name                     : &name "Vamshi Teja"
-description              : &description "Software Engineer @ Mercari,Inc Tokyo"
+description              : &description "Software Engineer @ Mercari, Tokyo"
 url                      : https://vamshiteja.in # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "VamshiTeja/VamshiTeja.github.io"
@@ -211,7 +211,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  _publications
   - scope:
       path: ""
       type: publications
